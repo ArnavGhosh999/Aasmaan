@@ -2,6 +2,6 @@
 
 ```
 Algorithms used
-- RESegNet
+- SE-ResNet50
 - GhostNet
 - GoogleNet
