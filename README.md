@@ -3,7 +3,8 @@
 ```
 Algorithms used
 - SE-ResNet50
-- GhostNet
+- Efficientnet
+- Mobilenet V2
 - GoogleNet
 
 
